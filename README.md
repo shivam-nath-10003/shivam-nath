@@ -1,6 +1,6 @@
-h1 align="center">Hi 👋, I'm Shivam Nath</h1>
+<h1 align="center">Hi 👋, I'm Shivam Nath</h1>
 <h3 align="center">A passionate petroleum engineer from India</h3>
-<img align="right"  width="500" src="[https://miro.medium.com/v2/resize:fit:1400/1*jkINT4G7HyrNT2jEw08y-A.gif](https://media.licdn.com/dms/image/D4E12AQELvH29a1p65w/article-cover_image-shrink_600_2000/0/1659449094911?e=2147483647&v=beta&t=Qb3xC5CKet8gCvWW28hixJLBxQh3JdTcPhdA4mJdabc)" >
+<img align="right" alt="petroleum" width="500" src="https://media.licdn.com/dms/image/D4E12AQELvH29a1p65w/article-cover_image-shrink_600_2000/0/1659449094911?e=2147483647&v=beta&t=Qb3xC5CKet8gCvWW28hixJLBxQh3JdTcPhdA4mJdabc">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shivam-nath-10003&label=Profile%20views&color=0e75b6&style=flat" alt="shivam-nath-10003" /> </p>
 
 - 🔭 I’m currently working on **Underground Hydrogen Storage Simulation using ML and CMG**
