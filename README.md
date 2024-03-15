@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Shivam Nath</h1>
 <h3 align="center">A passionate petroleum engineer from India</h3>
-<img align="right"  width="500" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgiphy.com%2Fgifs%2FDlubal-Software-L7uiifsdmlefcrH7Vn&psig=AOvVaw1sLUk8wq_R9mBBqUkI4lu8&ust=1710597469369000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCMCDjqa29oQDFQAAAAAdAAAAABAE" >
+<img align="right"  width="500" src="[https://www.google.com/url?sa=i&url=https%3A%2F%2Fgiphy.com%2Fgifs%2FDlubal-Software-L7uiifsdmlefcrH7Vn&psig=AOvVaw1sLUk8wq_R9mBBqUkI4lu8&ust=1710597469369000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCMCDjqa29oQDFQAAAAAdAAAAABAE](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.linkedin.com%2Fpulse%2Fpositions-reservoir-simulation-enhanced-oil-recovery-management&psig=AOvVaw39TKJdf-zJwgvKfnKwXqqP&ust=1710597822068000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCOC72M239oQDFQAAAAAdAAAAABAW)" >
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shivam-nath-10003&label=Profile%20views&color=0e75b6&style=flat" alt="shivam-nath-10003" /> </p>
 
 - 🔭 I’m currently working on **Underground Hydrogen Storage Simulation using ML and CMG**
